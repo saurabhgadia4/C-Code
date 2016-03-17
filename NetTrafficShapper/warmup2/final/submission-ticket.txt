@@ -1,0 +1,15 @@
+Verification successful
+    The timestamped upload ticket (which has been successfully verified) for
+    this submission has been placed in "2611.bti" in the following directory:
+        ~/.bistro/tickets/merlot.usc.edu_80_1372906710_48
+    A copy of your submission has been placed in "2611.dat" in the
+    following directory:
+        ~/.bistro/tickets/merlot.usc.edu_80_1372906710_48
+    The timestamp (time at the server) is '29Sep2014-23:26:02'.
+    The receipt (which has been successfully verified) for this submission
+    has been placed in "merlot.usc.edu_80_1372906710_2610.bri"
+    in the following directory:
+        ~/.bistro/tickets/merlot.usc.edu_80_1372906710_48
+    The encrypted submission has been placed in 
+    "merlot.usc.edu_80_1372906710_2611" in the following directory:
+        ~/.bistro/commits/merlot.usc.edu_80_1372906710_48
